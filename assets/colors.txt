@@ -1,0 +1,14 @@
+#FFCA40 Yellow
+#ffbc05ce Light Yellow
+
+#F54749 Red
+#f5474a17 light red
+
+#00000 Black
+#808080 Grey
+#8080808c light Grey
+#e8e8e8  Lighter Grey
+#f8f8f7 Light White
+#cdcdcd30 Body Color
+
+#604ad9 Violet
